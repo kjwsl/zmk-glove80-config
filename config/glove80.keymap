@@ -14,12 +14,12 @@
 
 // layers
 
-#define LAYER_DEFAULT     = 0
-#define LAYER_LOWER       = 1
-#define LAYER_MAGIC       = 2
-#define LAYER_FUNCTION    = 3
-#define LAYER_GAMING      = 4
-#define LAYER_MACOS       = 5
+#define LAYER_DEFAULT      0
+#define LAYER_LOWER        1
+#define LAYER_MAGIC        2
+#define LAYER_FUNCTION     3
+#define LAYER_GAMING       4
+#define LAYER_MACOS        5
 
 / {
     behaviors {
